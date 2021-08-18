@@ -11,13 +11,13 @@
 
 <br/>
 
-![](https://github.com/AliHaidry/AliHaidry/blob/master/header.png)
+<!-- ![](https://github.com/AliHaidry/AliHaidry/blob/master/header.png) -->
 
 Hi, I'm [Muhammad Zaman Afzal], a passionate <b>Full Stack Software Engineer.</b> My passion for software lies with dreaming up ideas and making them come true using best technologies with elegant interfaces. I take great care in the architecture, and code quality of the things I build.
 
 My learning and implementation persist in the domain of <strong>Python<strong>, <strong>Django<strong>, <strong>React<strong> <strong>Cloud Services<strong> & <strong>Scrapy<strong>.
 
-<img align="right" alt="GIF" src="https://github.com/AliHaidry/AliHaidry/blob/master/code.gif?raw=true" width="500" height="300" />
+<!-- <img align="right" alt="GIF" src="https://github.com/AliHaidry/AliHaidry/blob/master/code.gif?raw=true" width="500" height="300" /> -->
 
 - 💬 Ask me about anything, I am happy to help.
 - 📫 How to reach me: [@zamanafzal](https://www.linkedin.com/in/zaman-afzal/).
