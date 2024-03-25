@@ -44,6 +44,3 @@ My learning and implementation persist in the domain of <strong>Python<strong>, 
 
 ---
 
-📈 My GitHub Stats !
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=zamanafzal&show_icons=true&theme=gotham" alt="ZamanAfzal" />
