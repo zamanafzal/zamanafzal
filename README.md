@@ -1,16 +1,16 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<a href="mailto:zamanafzal@gmail.com">
-  <img align="left" alt="Zaman's Email" width="70px" src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" />
-</a>
+<p align="left">
+  <a href="mailto:zamanafzal@gmail.com">
+    <img alt="Zaman's Email" src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" height="50px"/>
+  </a>
+  <a href="https://wa.me/+923146114223" target="_blank">
+    <img alt="Zaman's WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="50px"/>
+  </a>
+</p>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=zamanafzal)
 
-<a href="https://wa.me/+923146114223" target="_blank">
-  <img align="left" alt="Zaman's WhatsApp" width="70px" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-</a>
-
-<br/>
 
 <!-- ![](https://github.com/AliHaidry/AliHaidry/blob/master/header.png) -->
 
