@@ -6,6 +6,10 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=zamanafzal)
 
+<a href="https://wa.me/+923146114223" target="_blank">
+  <img align="left" alt="Zaman's WhatsApp" width="70px" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+</a>
+
 <br/>
 
 <!-- ![](https://github.com/AliHaidry/AliHaidry/blob/master/header.png) -->
