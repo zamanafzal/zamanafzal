@@ -73,4 +73,59 @@ Hi, I'm **Muhammad Zaman Afzal**, a passionate **Full Stack Software Engineer.**
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="40px"/>
   </a>
 </p>
-
+## 📊 My open-source backend contributions
+<p align="left">
+<a href="https://github.com/openedx/edx-platform/pulls?q=is%3Apr+is%3Aclosed+author%3Azamanafzal" target="_blank">
+Edx Platform
+</a>
+  </p>
+<p align="left">
+<a href="https://github.com/openedx/edx-enterprise/pulls?q=is%3Apr+is%3Aclosed+author%3Azamanafzal" target="_blank">
+Edx Enterprise
+</a>
+  </p>
+<p align="left">
+<a href="https://github.com/openedx/license-manager/pulls?q=is%3Apr+is%3Aclosed+author%3Azamanafzal" target="_blank">
+License Manager
+</a>
+  </p>
+<p align="left">
+  <a href="https://github.com/openedx-unsupported/ecommerce/pulls?q=is%3Apr+is%3Aclosed+author%3Azamanafzal" target="_blank">
+Ecommerce
+</a>
+  </p>
+<p align="left">
+<a href="https://github.com/openedx/enterprise-access/pulls?q=is%3Apr+is%3Aclosed+author%3Azamanafzal" target="_blank">
+Enterprise Access
+</a>
+  </p>
+<p align="left">
+<a href="https://github.com/openedx/taxonomy-connector/pulls?q=is%3Apr+author%3Azamanafzal+is%3Aclosed" target="_blank">
+Taxonomy Connector
+</a>
+  </p>
+<p align="left">
+<a href="https://github.com/openedx/course-discovery/pulls?q=is%3Apr+author%3Azamanafzal+is%3Aclosed" target="_blank">
+   Course Discovery
+</a>
+  </p>
+<p align="left">
+<a href="https://github.com/openedx/edx-enterprise-data/pulls?q=is%3Apr+author%3Azamanafzal+is%3Aclosed" target="_blank">
+    Edx Enterprise Data
+</a>
+</p>
+## 📊 My open-source frontend contributions
+<p align="left">
+<a href="https://github.com/openedx/frontend-app-learner-portal-enterprise/pulls?q=is%3Apr+author%3Azamanafzal+is%3Aclosed" target="_blank">
+Edx Enterprise Learner Portal 
+</a>
+</p>
+<p align="left">
+<a href="https://github.com/openedx/frontend-app-admin-portal/pulls?q=is%3Apr+is%3Aclosed+author%3Azamanafzal" target="_blank">
+Edx Enterprise Admin Portal 
+</a>
+</p>
+<p align="left">
+<a href="https://github.com/openedx/frontend-enterprise/pulls?q=is%3Apr+is%3Aclosed+author%3Azamanafzal" target="_blank">
+Frontend Enterprise(Base Repo)
+</p>
