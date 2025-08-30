@@ -14,9 +14,9 @@
 Hi, I'm **Muhammad Zaman Afzal**, a passionate **Full Stack Software Engineer.** I love turning ideas into reality with the best technologies and elegant interfaces, focusing on architecture and high-quality code.
 
 ### 🚀 About Me
-- 🔹 **Full Stack Developer** with expertise in **React, Python, Django, and Web Scraping**.
-- 🔹 Experienced in **Docker, Twilio, Lightcast,Algolia , OAuth, AWS, S3 Bucket, ChatGPT API, IDP, Keycloak, Payment Gateways, and CI/CD**.
-- 🔹 Worked extensively with **MySQL, PostgreSQL, Redux, JavaScript/jQuery, GitHub, and Responsive Web Design (Bootstrap, Material-UI)**.
+- 🔹 **Full Stack Developer** with expertise in **React, Python, Django, Flutter and Web Scraping**.
+- 🔹 Experienced in **Docker, Twilio, Lightcast, Algolia, OAuth, AWS, S3 Bucket, ChatGPT API, IDP, Keycloak, Payment Gateways, and CI/CD**.
+- 🔹 Worked extensively with **MySQL, PostgreSQL, Context API, Redux, JavaScript/jQuery, GitHub, and Responsive Web Design (Bootstrap, Material-UI)**.
 - 🔹 Deep experience with **edX LMS, POS Systems, and AI Applications**.
 - 🔹 Implemented payment solutions using **Stripe, Braintree, Plaid, and MyFatoorah**.
 - 💬 **Ask me anything**, I'm happy to help!
